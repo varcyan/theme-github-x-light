@@ -1,0 +1,1 @@
+{"name":"theme-githubxlight","displayName":"%displayName%","description":"%description%","version":"1.0.0","publisher":"vscode","license":"MIT","engines":{"vscode":"*"},"contributes":{"themes":[{"label":"GitHub X Theme","uiTheme":"vs","path":"./themes/light.json"}]}}
