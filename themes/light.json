@@ -155,7 +155,7 @@
         "string.comment"
       ],
       "settings": {
-        "foreground": "#6a737d"
+        "foreground": "#9b9ea0"
       }
     },
     {
@@ -222,7 +222,7 @@
         "string punctuation.section.embedded source"
       ],
       "settings": {
-        "foreground": "#032f62"
+        "foreground": "#2EB143"
       }
     },
     {
