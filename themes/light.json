@@ -130,7 +130,6 @@
     "panelTitle.activeForeground": "#2f363d",
     "panelTitle.inactiveForeground": "#6a737d",
     "panelInput.border": "#e1e4e8",
-    "terminal.foreground": "#586069",
     "gitDecoration.addedResourceForeground": "#28a745",
     "gitDecoration.modifiedResourceForeground": "#005cc5",
     "gitDecoration.deletedResourceForeground": "#d73a49",
@@ -222,7 +221,7 @@
         "string punctuation.section.embedded source"
       ],
       "settings": {
-        "foreground": "#2EB143"
+        "foreground": "#1B8736"
       }
     },
     {
